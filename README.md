@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Gerlanne</h1>
 
 <p align="center">
-  💻 Desenvolvedora em formação • 🎓 Análise e Desenvolvimento de Sistemas • ✨ Apaixonada por tecnologia e soluções criativas
+   🎓 Análise e Desenvolvimento de Sistemas 
 </p>
 
 ---
